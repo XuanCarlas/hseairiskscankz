@@ -180,18 +180,6 @@ HSE AI Risk Scanner может использоваться для:
 
 ---
 
-# 🌐 Web Platform
-
-HSE AI Risk Scanner развивается как единая экосистема, включающая мобильное приложение и веб-платформу.
-
-**Web Platform:**
-
-[https://hseriskaiscan.lovable.app/](https://hseriskaiscan.lovable.app/)
-
-Веб-версия предназначена для централизованного управления, аналитики и мониторинга HSE-данных.
-
----
-
 # 🛠️ Technology Stack
 
 Проект разработан как современное Android-приложение.
@@ -254,46 +242,6 @@ HSE-AI-Risk-Scanner/
 - private certificates;
 - production credentials;
 - персональные данные пользователей.
-
----
-
-# ⚙️ Installation
-
-## Requirements
-
-Для сборки проекта рекомендуется использовать:
-
-- Android Studio
-- JDK
-- Android SDK
-- Gradle
-
-### Clone repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/hse-ai-risk-scanner.git
-cd hse-ai-risk-scanner
-```
-
-### Open project
-
-Откройте проект в **Android Studio** и дождитесь завершения синхронизации Gradle.
-
-### Build
-
-```bash
-./gradlew build
-```
-
-Для Windows:
-
-```powershell
-.\gradlew.bat build
-```
-
-### Run
-
-Подключите Android-устройство или запустите Android Emulator и выполните запуск приложения из Android Studio.
 
 ---
 
@@ -392,16 +340,10 @@ License information will be added to the repository.
 
 AI-powered technology for proactive occupational health and safety.
 
-🌐 Web Platform:\
-[https://hseriskaiscan.lovable.app/](https://hseriskaiscan.lovable.app/)
-
-📱 Android Application:\
-Available in this repository.
-
 ---
 
 ## 💡 Vision
 
 > **See the risk. Assess the risk. Prevent the incident.**
 
-**HSE AI Risk Scanner** — технологии искусственного интеллекта для более безопасного будущего.
+**HSE AI Risk Scanner** - технологии искусственного интеллекта для более безопасного будущего.
