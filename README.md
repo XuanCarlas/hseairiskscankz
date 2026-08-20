@@ -161,7 +161,7 @@ HSE AI Risk Scanner ориентирован на обнаружение раз�
 
 # 🛡️ CAPA
 
-**CAPA — Corrective and Preventive Action**
+**CAPA - Corrective and Preventive Action**
 
 Механизм корректирующих и предупреждающих мероприятий позволяет организовать полный цикл работы с выявленным риском:
 
