@@ -1,4 +1,4 @@
-*🛡️ HSE AI Risk Scanner*
+*🛡️HSE AI Risk Scanner*
 
 AI-powered mobile solution for occupational health, safety and risk assessment
 
